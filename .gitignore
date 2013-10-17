@@ -3,8 +3,4 @@
 
 .DS_Store
 
-dist/
-output/
-lib/
-
-
+build/
